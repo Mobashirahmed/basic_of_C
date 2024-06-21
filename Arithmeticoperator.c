@@ -12,7 +12,7 @@ int main()
     int e=a*b, f=b*c, g=a*c, h=d*b ;
     printf("\nOutput of Multiplication: \t%d\t%d\t%d\t%d", e,f,g,h);
 /*  
-• Division (/),
+• Division ( .../),
 */
     int i=a/b, j=b/c, k=a/c, l=d/b;
     printf("\nOutput of Division: \t%d\t%d\t%d\t%d", i,j,k,l);
